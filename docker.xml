@@ -1,0 +1,6 @@
+<application>
+  <component name="DockerSettings">
+    <option name="dockerComposePath" value="$USER_HOME$/.docksal/bin/docker-compose" />
+    <option name="dockerMachinePath" value="$USER_HOME$/.docksal/bin/docker-machine" />
+  </component>
+</application>
