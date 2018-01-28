@@ -44,6 +44,7 @@
   <codeStyleSettings language="PHP">
     <option name="CLASS_BRACE_STYLE" value="1" />
     <option name="METHOD_BRACE_STYLE" value="1" />
+    <option name="ELSE_ON_NEW_LINE" value="true" />
     <option name="SOFT_MARGINS" value="80" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
