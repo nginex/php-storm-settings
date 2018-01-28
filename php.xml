@@ -2,7 +2,7 @@
   <component name="PhpCodeSniffer">
     <phpcs_settings>
       <PhpCSConfiguration max_messages_per_file="99" standards="Drupal;DrupalPractice;MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="$USER_HOME$/.composer/vendor/bin/phpcs" />
-      <phpcs_by_interpreter interpreter_id="738e9fa0-de58-4ea7-8747-9b05335e304c" max_messages_per_file="99" standards="Drupal;DrupalPractice;MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="phpcs" />
+      <phpcs_by_interpreter interpreter_id="738e9fa0-de58-4ea7-8747-9b05335e304c" max_messages_per_file="99" standards="Drupal;DrupalPractice;MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" timeout="20000" tool_path="/home/docker/.composer/vendor/bin/phpcs" />
     </phpcs_settings>
   </component>
   <component name="PhpInterpreters">
