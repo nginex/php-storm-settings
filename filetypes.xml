@@ -1,12 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="test" type="PHP" />
       <mapping ext="profile" type="PHP" />
       <mapping ext="engine" type="PHP" />
-      <mapping ext="test" type="PHP" />
-      <mapping ext="install" type="PHP" />
       <mapping ext="theme" type="PHP" />
-      <mapping pattern="_variables.scss" type="PLAIN_TEXT" />
+      <mapping ext="install" type="PHP" />
     </extensionMap>
   </component>
 </application>
