@@ -6,6 +6,7 @@
       <mapping ext="engine" type="PHP" />
       <mapping ext="theme" type="PHP" />
       <mapping ext="install" type="PHP" />
+      <mapping pattern="SentinelA-normal-400" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
