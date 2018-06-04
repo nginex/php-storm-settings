@@ -14,5 +14,6 @@
     <mask>*.php</mask>
     <mask>*.html.twig</mask>
     <mask>*.js</mask>
+    <mask>*.po</mask>
   </component>
 </application>
