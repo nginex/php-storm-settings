@@ -15,5 +15,6 @@
     <mask>*.html.twig</mask>
     <mask>*.js</mask>
     <mask>*.po</mask>
+    <mask>*.schema.yml</mask>
   </component>
 </application>
