@@ -19,5 +19,6 @@
     <mask>*.po</mask>
     <mask>*.links.menu.yml</mask>
     <mask>*.html.twig</mask>
+    <mask>*.drush.inc</mask>
   </component>
 </application>
