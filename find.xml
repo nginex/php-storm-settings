@@ -21,5 +21,6 @@
     <mask>*.drush.inc</mask>
     <mask>*.libraries.yml</mask>
     <mask>*.scss</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
