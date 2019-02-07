@@ -23,5 +23,6 @@
     <mask>*.scss</mask>
     <mask>*.yml</mask>
     <mask>*.rules.inc</mask>
+    <mask>*.info.yml</mask>
   </component>
 </application>
