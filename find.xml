@@ -24,5 +24,6 @@
     <mask>*.yml</mask>
     <mask>*.rules.inc</mask>
     <mask>*.info.yml</mask>
+    <mask>*.routing.yml</mask>
   </component>
 </application>
