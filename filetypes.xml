@@ -10,6 +10,8 @@
       <mapping ext="test" type="PHP" />
       <mapping ext="install" type="PHP" />
       <mapping ext="theme" type="PHP" />
+      <mapping pattern="composer" type="PLAIN_TEXT" />
+      <mapping pattern="console" type="PLAIN_TEXT" />
       <mapping ext="menu" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
