@@ -22,9 +22,9 @@
     <mask>*.scss</mask>
     <mask>*.rules.inc</mask>
     <mask>*.routing.yml</mask>
-    <mask>*.install</mask>
     <mask>*.info.yml</mask>
     <mask>*.js</mask>
     <mask>*.yml</mask>
+    <mask>*.install</mask>
   </component>
 </application>
