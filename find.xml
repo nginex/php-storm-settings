@@ -24,7 +24,7 @@
     <mask>*.routing.yml</mask>
     <mask>*.info.yml</mask>
     <mask>*.js</mask>
-    <mask>*.install</mask>
     <mask>*.yml</mask>
+    <mask>*.install</mask>
   </component>
 </application>
