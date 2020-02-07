@@ -23,9 +23,9 @@
     <mask>*.info.yml</mask>
     <mask>*.yml</mask>
     <mask>*.twig</mask>
-    <mask>*.js</mask>
     <mask>*.html.twig</mask>
     <mask>*.routing.yml</mask>
     <mask>*.schema.yml</mask>
+    <mask>*.js</mask>
   </component>
 </application>
