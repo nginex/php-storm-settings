@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.po" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -12,7 +13,6 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.php</mask>
-    <mask>*.po</mask>
     <mask>*.links.menu.yml</mask>
     <mask>*.drush.inc</mask>
     <mask>*.libraries.yml</mask>
@@ -27,5 +27,6 @@
     <mask>*.routing.yml</mask>
     <mask>*.schema.yml</mask>
     <mask>*.js</mask>
+    <mask>*.po</mask>
   </component>
 </application>
