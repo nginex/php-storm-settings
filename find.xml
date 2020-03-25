@@ -25,7 +25,7 @@
     <mask>*.js</mask>
     <mask>*.po</mask>
     <mask>*.twig</mask>
-    <mask>*.routing.yml</mask>
     <mask>*.services.yml</mask>
+    <mask>*.routing.yml</mask>
   </component>
 </application>
