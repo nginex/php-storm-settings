@@ -20,7 +20,6 @@
     <mask>*.scss</mask>
     <mask>*.info.yml</mask>
     <mask>*.yml</mask>
-    <mask>*.html.twig</mask>
     <mask>*.schema.yml</mask>
     <mask>*.js</mask>
     <mask>*.po</mask>
@@ -28,5 +27,6 @@
     <mask>*.services.yml</mask>
     <mask>*.routing.yml</mask>
     <mask>*.module</mask>
+    <mask>*.html.twig</mask>
   </component>
 </application>
