@@ -26,7 +26,7 @@
     <mask>*.twig</mask>
     <mask>*.routing.yml</mask>
     <mask>*.module</mask>
-    <mask>*.html.twig</mask>
     <mask>*.services.yml</mask>
+    <mask>*.html.twig</mask>
   </component>
 </application>
