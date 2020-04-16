@@ -23,10 +23,10 @@
     <mask>*.schema.yml</mask>
     <mask>*.po</mask>
     <mask>*.twig</mask>
-    <mask>*.routing.yml</mask>
     <mask>*.module</mask>
     <mask>*.services.yml</mask>
     <mask>*.js</mask>
     <mask>*.html.twig</mask>
+    <mask>*.routing.yml</mask>
   </component>
 </application>
