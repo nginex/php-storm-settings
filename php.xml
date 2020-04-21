@@ -1,7 +1,4 @@
 <application>
-  <component name="MessDetector">
-    <phpmd_settings_migrated />
-  </component>
   <component name="PhpCodeSniffer">
     <phpcs_settings>
       <PhpCSConfiguration max_messages_per_file="99" standards="Drupal;DrupalPractice;MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="$USER_HOME$/.composer/vendor/bin/phpcs" />
@@ -10,8 +7,8 @@
   <component name="PhpDebugGeneral" xdebug_notify_resolved_breakpoints="false" />
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="docker://docksal/cli:edge-php7.1/php" id="738e9fa0-de58-4ea7-8747-9b05335e304c" name="docksal/php7.1" debugger_id="php.debugger.XDebug">
-        <remote_data DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="docksal/cli:edge-php7.1" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+      <interpreter id="738e9fa0-de58-4ea7-8747-9b05335e304c" name="docksal/php7.1" home="docker://DATA" debugger_id="php.debugger.XDebug">
+        <remote_data INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="docksal/cli:edge-php7.1" DOCKER_REMOTE_PROJECT_PATH="/opt/project" />
       </interpreter>
     </interpreters>
   </component>
