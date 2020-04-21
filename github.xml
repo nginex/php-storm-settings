@@ -1,7 +1,0 @@
-<application>
-  <component name="GithubAccounts">
-    <account id="926f4bd0-02ad-4983-8fc2-fda32ed2a2e4" name="nginex">
-      <server host="github.com" />
-    </account>
-  </component>
-</application>
