@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.install" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -18,7 +19,6 @@
     <mask>*.drush.inc</mask>
     <mask>*.libraries.yml</mask>
     <mask>*.rules.inc</mask>
-    <mask>*.install</mask>
     <mask>*.scss</mask>
     <mask>*.info.yml</mask>
     <mask>*.yml</mask>
@@ -30,5 +30,6 @@
     <mask>*.html.twig</mask>
     <mask>*.routing.yml</mask>
     <mask>*.js</mask>
+    <mask>*.install</mask>
   </component>
 </application>
