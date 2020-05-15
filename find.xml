@@ -28,7 +28,7 @@
     <mask>*.services.yml</mask>
     <mask>*.routing.yml</mask>
     <mask>*.js</mask>
-    <mask>*.install</mask>
     <mask>*.html.twig</mask>
+    <mask>*.install</mask>
   </component>
 </application>
