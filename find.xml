@@ -27,8 +27,8 @@
     <mask>*.routing.yml</mask>
     <mask>*.js</mask>
     <mask>*.html.twig</mask>
-    <mask>*.install</mask>
     <mask>*.yml</mask>
     <mask>*.po</mask>
+    <mask>*.install</mask>
   </component>
 </application>
