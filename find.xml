@@ -22,7 +22,6 @@
     <mask>*.info.yml</mask>
     <mask>*.schema.yml</mask>
     <mask>*.twig</mask>
-    <mask>*.module</mask>
     <mask>*.services.yml</mask>
     <mask>*.routing.yml</mask>
     <mask>*.js</mask>
@@ -30,5 +29,6 @@
     <mask>*.yml</mask>
     <mask>*.po</mask>
     <mask>*.install</mask>
+    <mask>*.module</mask>
   </component>
 </application>
