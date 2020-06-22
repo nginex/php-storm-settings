@@ -16,7 +16,6 @@
     <mask>*.php</mask>
     <mask>*.links.menu.yml</mask>
     <mask>*.drush.inc</mask>
-    <mask>*.libraries.yml</mask>
     <mask>*.rules.inc</mask>
     <mask>*.scss</mask>
     <mask>*.info.yml</mask>
@@ -30,5 +29,6 @@
     <mask>*.po</mask>
     <mask>*.install</mask>
     <mask>*.module</mask>
+    <mask>*.libraries.yml</mask>
   </component>
 </application>
