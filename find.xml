@@ -30,5 +30,6 @@
     <mask>*.module</mask>
     <mask>*.libraries.yml</mask>
     <mask>*.schema.yml</mask>
+    <mask>*.permissions.yml</mask>
   </component>
 </application>
