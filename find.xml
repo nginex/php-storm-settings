@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.schema.yml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -29,7 +30,7 @@
     <mask>*.install</mask>
     <mask>*.module</mask>
     <mask>*.libraries.yml</mask>
-    <mask>*.schema.yml</mask>
     <mask>*.permissions.yml</mask>
+    <mask>*.schema.yml</mask>
   </component>
 </application>
