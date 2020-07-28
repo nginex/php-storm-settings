@@ -26,10 +26,10 @@
     <mask>*.html.twig</mask>
     <mask>*.yml</mask>
     <mask>*.po</mask>
-    <mask>*.install</mask>
     <mask>*.module</mask>
     <mask>*.permissions.yml</mask>
     <mask>*.schema.yml</mask>
     <mask>*.libraries.yml</mask>
+    <mask>*.install</mask>
   </component>
 </application>
