@@ -29,7 +29,7 @@
     <mask>*.libraries.yml</mask>
     <mask>*.install</mask>
     <mask>*.php</mask>
-    <mask>*.routing.yml</mask>
     <mask>*.twig</mask>
+    <mask>*.routing.yml</mask>
   </component>
 </application>
