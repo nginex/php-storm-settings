@@ -31,5 +31,6 @@
     <mask>*.scss</mask>
     <mask>*.js</mask>
     <mask>*.install</mask>
+    <mask>core.entity_form_display.*.yml</mask>
   </component>
 </application>
