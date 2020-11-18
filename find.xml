@@ -16,7 +16,6 @@
     <mask>*.links.menu.yml</mask>
     <mask>*.drush.inc</mask>
     <mask>*.rules.inc</mask>
-    <mask>*.services.yml</mask>
     <mask>*.html.twig</mask>
     <mask>*.yml</mask>
     <mask>*.po</mask>
@@ -32,5 +31,6 @@
     <mask>core.entity_form_display.*.yml</mask>
     <mask>*.info.yml</mask>
     <mask>*.routing.yml</mask>
+    <mask>*.services.yml</mask>
   </component>
 </application>
