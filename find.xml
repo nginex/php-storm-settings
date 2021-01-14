@@ -30,8 +30,8 @@
     <mask>core.entity_form_display.*.yml</mask>
     <mask>*.routing.yml</mask>
     <mask>*.services.yml</mask>
-    <mask>*.info.yml</mask>
     <mask>composer.json</mask>
     <mask>*.html.twig</mask>
+    <mask>*.info.yml</mask>
   </component>
 </application>
