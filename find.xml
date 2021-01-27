@@ -16,7 +16,6 @@
     <mask>*.links.menu.yml</mask>
     <mask>*.drush.inc</mask>
     <mask>*.rules.inc</mask>
-    <mask>*.yml</mask>
     <mask>*.po</mask>
     <mask>*.module</mask>
     <mask>*.permissions.yml</mask>
@@ -33,5 +32,6 @@
     <mask>*.js</mask>
     <mask>*.install</mask>
     <mask>*.php</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
