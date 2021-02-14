@@ -22,7 +22,6 @@
     <mask>*.twig</mask>
     <mask>*.scss</mask>
     <mask>core.entity_form_display.*.yml</mask>
-    <mask>*.routing.yml</mask>
     <mask>*.services.yml</mask>
     <mask>composer.json</mask>
     <mask>*.html.twig</mask>
@@ -31,5 +30,6 @@
     <mask>*.install</mask>
     <mask>*.php</mask>
     <mask>*.yml</mask>
+    <mask>*.routing.yml</mask>
   </component>
 </application>
