@@ -23,13 +23,13 @@
     <mask>core.entity_form_display.*.yml</mask>
     <mask>*.services.yml</mask>
     <mask>composer.json</mask>
-    <mask>*.info.yml</mask>
-    <mask>*.js</mask>
     <mask>*.install</mask>
     <mask>*.php</mask>
     <mask>*.yml</mask>
     <mask>*.routing.yml</mask>
     <mask>*.schema.yml</mask>
     <mask>*.html.twig</mask>
+    <mask>*.js</mask>
+    <mask>*.info.yml</mask>
   </component>
 </application>
