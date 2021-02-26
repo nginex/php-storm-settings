@@ -27,9 +27,9 @@
     <mask>*.php</mask>
     <mask>*.yml</mask>
     <mask>*.routing.yml</mask>
-    <mask>*.schema.yml</mask>
     <mask>*.html.twig</mask>
     <mask>*.js</mask>
     <mask>*.info.yml</mask>
+    <mask>*.schema.yml</mask>
   </component>
 </application>
