@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.module" />
+    <option name="FILE_MASK" value="*.install" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -23,7 +23,6 @@
     <mask>core.entity_form_display.*.yml</mask>
     <mask>*.services.yml</mask>
     <mask>composer.json</mask>
-    <mask>*.install</mask>
     <mask>*.php</mask>
     <mask>*.yml</mask>
     <mask>*.routing.yml</mask>
@@ -32,5 +31,6 @@
     <mask>*.info.yml</mask>
     <mask>*.schema.yml</mask>
     <mask>*.module</mask>
+    <mask>*.install</mask>
   </component>
 </application>
