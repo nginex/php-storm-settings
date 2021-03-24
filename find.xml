@@ -25,11 +25,11 @@
     <mask>*.routing.yml</mask>
     <mask>*.html.twig</mask>
     <mask>*.js</mask>
-    <mask>*.info.yml</mask>
     <mask>*.schema.yml</mask>
     <mask>*.module</mask>
     <mask>*.install</mask>
     <mask>*.scss</mask>
     <mask>*.twig</mask>
+    <mask>*.info.yml</mask>
   </component>
 </application>
