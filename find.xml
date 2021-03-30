@@ -29,7 +29,7 @@
     <mask>*.scss</mask>
     <mask>*.twig</mask>
     <mask>*.info.yml</mask>
-    <mask>*.libraries.yml</mask>
     <mask>*.schema.yml</mask>
+    <mask>*.libraries.yml</mask>
   </component>
 </application>
