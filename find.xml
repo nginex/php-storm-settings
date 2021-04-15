@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.schema.yml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -28,8 +29,8 @@
     <mask>*.install</mask>
     <mask>*.scss</mask>
     <mask>*.info.yml</mask>
-    <mask>*.schema.yml</mask>
     <mask>*.libraries.yml</mask>
     <mask>*.twig</mask>
+    <mask>*.schema.yml</mask>
   </component>
 </application>
