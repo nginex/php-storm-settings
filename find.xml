@@ -31,5 +31,6 @@
     <mask>*.schema.yml</mask>
     <mask>*.twig</mask>
     <mask>*.yml</mask>
+    <mask>*.gitignore</mask>
   </component>
 </application>
