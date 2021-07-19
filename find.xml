@@ -30,9 +30,9 @@
     <mask>*.scss</mask>
     <mask>*.info.yml</mask>
     <mask>*.libraries.yml</mask>
-    <mask>*.schema.yml</mask>
     <mask>*.twig</mask>
     <mask>*.yml</mask>
     <mask>*.gitignore</mask>
+    <mask>*.schema.yml</mask>
   </component>
 </application>
