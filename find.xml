@@ -28,9 +28,9 @@
     <mask>*.info.yml</mask>
     <mask>*.libraries.yml</mask>
     <mask>*.twig</mask>
-    <mask>*.yml</mask>
     <mask>*.gitignore</mask>
     <mask>*.schema.yml</mask>
     <mask>*.services.yml</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
