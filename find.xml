@@ -25,12 +25,12 @@
     <mask>*.module</mask>
     <mask>*.install</mask>
     <mask>*.scss</mask>
-    <mask>*.info.yml</mask>
     <mask>*.libraries.yml</mask>
     <mask>*.gitignore</mask>
     <mask>*.schema.yml</mask>
     <mask>*.services.yml</mask>
     <mask>*.yml</mask>
     <mask>*.twig</mask>
+    <mask>*.info.yml</mask>
   </component>
 </application>
