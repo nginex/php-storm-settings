@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.info.yml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -29,10 +30,10 @@
     <mask>*.services.yml</mask>
     <mask>*.yml</mask>
     <mask>*.twig</mask>
-    <mask>*.info.yml</mask>
     <mask>*.install</mask>
     <mask>*.routing.yml</mask>
     <mask>*.libraries.yml</mask>
     <mask>composer.json</mask>
+    <mask>*.info.yml</mask>
   </component>
 </application>
