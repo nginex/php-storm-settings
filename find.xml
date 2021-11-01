@@ -2,37 +2,36 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.properties</mask>
-    <mask>*.html</mask>
-    <mask>*.jsp</mask>
-    <mask>*.xml</mask>
-    <mask>*.java</mask>
-    <mask>*.as</mask>
-    <mask>*.css</mask>
-    <mask>*.mxml</mask>
-    <mask>*.links.menu.yml</mask>
-    <mask>*.drush.inc</mask>
-    <mask>*.rules.inc</mask>
-    <mask>*.po</mask>
     <mask>*.permissions.yml</mask>
     <mask>core.entity_form_display.*.yml</mask>
-    <mask>*.php</mask>
     <mask>*.html.twig</mask>
     <mask>*.js</mask>
-    <mask>*.module</mask>
     <mask>*.scss</mask>
     <mask>*.gitignore</mask>
     <mask>*.schema.yml</mask>
     <mask>*.services.yml</mask>
     <mask>*.yml</mask>
     <mask>*.twig</mask>
-    <mask>*.install</mask>
     <mask>*.routing.yml</mask>
     <mask>*.libraries.yml</mask>
     <mask>composer.json</mask>
     <mask>*.info.yml</mask>
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.php4</mask>
+    <mask>*.phtml</mask>
+    <mask>*.theme</mask>
+    <mask>*.profile</mask>
+    <mask>*.php5</mask>
+    <mask>*.engine</mask>
+    <mask>*.ctp</mask>
+    <mask>*.test</mask>
+    <mask>*.hphp</mask>
+    <mask>*.module</mask>
+    <mask>*.inc</mask>
+    <mask>*.install</mask>
+    <mask>*.php</mask>
   </component>
 </application>
