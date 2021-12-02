@@ -29,9 +29,9 @@
     <mask>*.ctp</mask>
     <mask>*.test</mask>
     <mask>*.hphp</mask>
-    <mask>*.module</mask>
     <mask>*.inc</mask>
     <mask>*.install</mask>
     <mask>*.php</mask>
+    <mask>*.module</mask>
   </component>
 </application>
