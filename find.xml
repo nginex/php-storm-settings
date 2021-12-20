@@ -3,9 +3,9 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.permissions.yml</mask>
     <mask>core.entity_form_display.*.yml</mask>
-    <mask>*.js</mask>
     <mask>*.scss</mask>
     <mask>*.gitignore</mask>
     <mask>*.twig</mask>
@@ -33,5 +33,6 @@
     <mask>*.install</mask>
     <mask>*.php</mask>
     <mask>*.yml</mask>
+    <mask>*.js</mask>
   </component>
 </application>
