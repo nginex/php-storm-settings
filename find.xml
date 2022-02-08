@@ -3,12 +3,12 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.routing.yml" />
     <mask>*.permissions.yml</mask>
     <mask>core.entity_form_display.*.yml</mask>
     <mask>*.scss</mask>
     <mask>*.gitignore</mask>
     <mask>*.twig</mask>
-    <mask>*.routing.yml</mask>
     <mask>composer.json</mask>
     <mask>*.info.yml</mask>
     <mask>*.services.yml</mask>
@@ -33,5 +33,6 @@
     <mask>*.js</mask>
     <mask>*.yml</mask>
     <mask>*.install</mask>
+    <mask>*.routing.yml</mask>
   </component>
 </application>
