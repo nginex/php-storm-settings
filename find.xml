@@ -7,13 +7,11 @@
     <mask>core.entity_form_display.*.yml</mask>
     <mask>*.scss</mask>
     <mask>*.gitignore</mask>
-    <mask>*.twig</mask>
     <mask>composer.json</mask>
     <mask>*.info.yml</mask>
     <mask>*.services.yml</mask>
     <mask>*.schema.yml</mask>
     <mask>*.libraries.yml</mask>
-    <mask>*.html.twig</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -33,5 +31,7 @@
     <mask>*.yml</mask>
     <mask>*.install</mask>
     <mask>*.routing.yml</mask>
+    <mask>*.html.twig</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
