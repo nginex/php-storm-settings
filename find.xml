@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.twig" />
     <mask>*.permissions.yml</mask>
     <mask>core.entity_form_display.*.yml</mask>
     <mask>*.scss</mask>
@@ -31,7 +32,7 @@
     <mask>*.install</mask>
     <mask>*.routing.yml</mask>
     <mask>*.html.twig</mask>
-    <mask>*.twig</mask>
     <mask>*.js</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
