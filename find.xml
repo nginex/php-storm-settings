@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.permissions.yml</mask>
     <mask>core.entity_form_display.*.yml</mask>
@@ -29,9 +31,9 @@
     <mask>*.yml</mask>
     <mask>*.install</mask>
     <mask>*.routing.yml</mask>
-    <mask>*.html.twig</mask>
     <mask>*.js</mask>
-    <mask>*.twig</mask>
     <mask>*.libraries.yml</mask>
+    <mask>*.html.twig</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
