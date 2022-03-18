@@ -3,13 +3,13 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.services.yml" />
     <mask>*.permissions.yml</mask>
     <mask>core.entity_form_display.*.yml</mask>
     <mask>*.scss</mask>
     <mask>*.gitignore</mask>
     <mask>composer.json</mask>
     <mask>*.info.yml</mask>
-    <mask>*.services.yml</mask>
     <mask>*.schema.yml</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
@@ -33,5 +33,6 @@
     <mask>*.libraries.yml</mask>
     <mask>*.html.twig</mask>
     <mask>*.twig</mask>
+    <mask>*.services.yml</mask>
   </component>
 </application>
